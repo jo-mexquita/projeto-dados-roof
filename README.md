@@ -1,2 +1,2 @@
 # projeto-dados-roof
-Repositório desenvolvido como parte do projeto de dados Roof Imóveis na Formação em Dados da Escola DNC.
+Repositório desenvolvido como parte do mini projeto de dados Roof Imóveis na Formação em Dados da Escola DNC.
